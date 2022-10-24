@@ -1,4 +1,4 @@
-# frontend
+# Vue.js, Microsoft Entity Framework, C#, Swagger
 
 ## Project setup
 ```
